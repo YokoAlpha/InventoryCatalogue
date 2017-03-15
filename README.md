@@ -1,4 +1,4 @@
-##Stock Inventory Catalogue for Game and Retro Game products
+## Stock Inventory Catalogue for Game and Retro Game products
 
 
 # Functionality
@@ -20,8 +20,8 @@ IntelliJ IDEA, Java, JUnit, Gradle, TDD.
 # Inventory Class diagram 
 
 
-![alt text](https://github.com/YokoAlpha/InventoryCatalogue/blob/2f38175bc2d191769232fda9cd7fbbb6b79f7d4b/resources/inventoryCatalog_diagram.png "")
+![alt text](https://github.com/YokoAlpha/InventoryCatalogue/blob/master/resources/inventoryCatalog_diagram.png "")
 
 # Test coverage 
 
-![alt text](https://github.com/YokoAlpha/InventoryCatalogue/blob/2f38175bc2d191769232fda9cd7fbbb6b79f7d4b/resources/InventoryManagerTestCoverage.png "")
+![alt text](https://github.com/YokoAlpha/InventoryCatalogue/blob/master/resources/InventoryManagerTestCoverage.png "")
