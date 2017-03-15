@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.yoko.alpha.graph</OriginalElement>
+  <nodes>
+    <node x="-8.0" y="271.0">com.yoko.alpha.graph.Relationship</node>
+    <node x="267.0" y="271.0">com.yoko.alpha.graph.Person</node>
+    <node x="90.0" y="483.0">com.yoko.alpha.graph.DataParser</node>
+    <node x="22.0" y="0.0">com.yoko.alpha.graph.PersonManager</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.yoko.alpha.graph.PersonManager" target="com.yoko.alpha.graph.Relationship">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.yoko.alpha.graph.DataParser" target="com.yoko.alpha.graph.Person">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.yoko.alpha.graph.DataParser" target="com.yoko.alpha.graph.Relationship">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.yoko.alpha.graph.PersonManager" target="com.yoko.alpha.graph.Person">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="147.5" y="167.5" />
+  <SelectedNodes>
+    <node>com.yoko.alpha.graph.PersonManager</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
